@@ -1,0 +1,29 @@
+{
+  "name": "form-vuz",
+  "version": "1.0.0",
+  "description": "表单组件库",
+  "author": "Little-Z-Classmates <502073201@qq.com>",
+  "homepage": "https://github.com/Little-Z-Classmates/form-vuz#readme",
+  "license": "ISC",
+  "main": "lib/form-vuz.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Little-Z-Classmates/form-vuz.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Little-Z-Classmates/form-vuz/issues"
+  }
+}
